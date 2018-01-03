@@ -4,12 +4,14 @@
 * WebDriverAgent
 * XCode
 * 真机测试
+
 https://github.com/openatx/facebook-wda/blob/master/README.md
 https://testerhome.com/topics/9854
 
 # python图片解析学习
 * opencv
 * findContours、GaussianBlur
+
 https://blog.callmewhy.com/2016/04/23/opencv-find-qrcode-position/
 https://segmentfault.com/a/1190000003742461
 http://python.jobbole.com/85600/
