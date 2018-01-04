@@ -112,7 +112,8 @@ def getBoardPosition(image, topY, endY):
             if (maxsize < size):
                 maxsize = size
                 saveY = i
-            if (maxsize > 50 and maxsize > size):
+            elif (maxsize > 20
+                  and (maxsize >= size or saveY - topPoint[1] > maxsize)):
                 saveY = i
                 break
         # 计算顶点
